@@ -1,4 +1,4 @@
-﻿namespace DiceClient
+﻿namespace Dice
 {
     partial class StartWindow
     {
@@ -137,7 +137,7 @@
             // 
             // PBLogo
             // 
-            this.PBLogo.Image = global::DiceClient.Properties.Resources.diceLogo;
+            this.PBLogo.Image = global::Dice.Properties.Resources.diceLogo;
             this.PBLogo.Location = new System.Drawing.Point(17, 3);
             this.PBLogo.Name = "PBLogo";
             this.PBLogo.Size = new System.Drawing.Size(128, 128);

@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DiceClient
+namespace Dice
 {
     public partial class StartWindow : Form
     {

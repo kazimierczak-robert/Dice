@@ -12,7 +12,7 @@ using System.Collections;
 using System.Drawing;
 
 //https://msdn.microsoft.com/pl-pl/library/fx6588te(v=vs.110).aspx
-namespace DiceClient
+namespace Dice
 {
     class AsynchronousSocketListener
     {

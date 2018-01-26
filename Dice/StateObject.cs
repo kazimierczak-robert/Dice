@@ -8,7 +8,7 @@ using System.Net.Sockets;
 
 //https://msdn.microsoft.com/pl-pl/library/fx6588te(v=vs.110).aspx
 // State object for reading client data asynchronously
-namespace DiceClient
+namespace Dice
 {
     class StateObject
     {

@@ -1,4 +1,4 @@
-﻿namespace DiceClient
+﻿namespace Dice
 {
     partial class PlayWindow
     {
